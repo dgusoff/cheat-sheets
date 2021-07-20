@@ -28,3 +28,11 @@ https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-new-sdk-templates#weba
 ````
 dotnet new webapi --auth SingleOrg --client-id xxx --domain foo.onmicrosoft.com --tenant-id <guid> 
 ````
+
+## add project to project reference
+
+https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-add-reference
+
+````
+example TBD
+````
